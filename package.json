@@ -1,0 +1,26 @@
+{
+  "name": "png_colour_type",
+  "version": "1.0.0",
+  "description": "Gets the colour type of a PNG",
+  "main": "lib/index.js",
+  "author": "WORMSS <wormssmail@gmail.com> (http://wormss.github.com/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/WORMSS/node-png-colour-type"
+  },
+  "keywords": [
+    "png",
+    "colour",
+    "type"
+  ],
+  "bugs": {
+    "url": "https://github.com/WORMSS/node-png-colour-type/issues"
+  },
+  "homepage": "https://github.com/WORMSS/node-png-colour-type"
+}
