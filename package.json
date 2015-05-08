@@ -1,6 +1,6 @@
 {
   "name": "png_colour_type",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gets the colour type of a PNG",
   "main": "lib/index.js",
   "author": "WORMSS <wormssmail@gmail.com> (http://wormss.github.com/)",
